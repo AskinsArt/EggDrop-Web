@@ -69,14 +69,8 @@
         document.querySelector("#unity-container").className = "unity-mobile";
         canvas.className = "unity-mobile";
       } else {
-      // Make canvas fill browser window dynamically
-function resizeCanvas() {
-  canvas.style.width = window.innerWidth + "px";
-  canvas.style.height = window.innerHeight + "px";
-}
-
-window.addEventListener('resize', resizeCanvas);
-resizeCanvas();
+      canvas.style.width = "960px";
+      canvas.style.height = "600px";
       }
 
       document.querySelector("#unity-loading-bar").style.display = "block";
