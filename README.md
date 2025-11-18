@@ -1,7 +1,7 @@
 <h1 align="center">🪶 EGG DROP!</h1>
 
 <p align="center">
-🎮 <a href="[https://askinsart.github.io/EggDrop--Web/](https://askinsart.github.io/EggDrop-Web/)" target="_blank">Play the Game Here</a>  
+🎮 <a href="https://askinsart.github.io/EggDrop-Web/" target="_blank">Play the Game Here</a>  
 </p>
 
 ---
@@ -25,6 +25,14 @@ Every successful drop earns you points — but the hawks get faster and the nest
 
 ---
 
+## 🌤️ Features
+- Gradually increasing challenge  
+- Hand-drawn cartoon visuals 🎨  
+- Smooth flying and egg-dropping mechanics  
+- Background music 🎵  
+- Built for **WebGL** — playable right in your browser  
+
+---
 
 ## 💬 Creator’s Note
 This is my **first complete Unity project**, built to learn game development from start to finish — from scripting and animation to publishing online.  
