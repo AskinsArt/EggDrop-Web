@@ -1,7 +1,7 @@
 <h1 align="center">🪶 EGG DROP!</h1>
 
 <p align="center">
-🎮 <a href="https://askinsart.github.io/EggDrop--Web/" target="_blank">Play the Game Here</a>  
+🎮 <a href="[https://askinsart.github.io/EggDrop--Web/](https://askinsart.github.io/EggDrop-Web/)" target="_blank">Play the Game Here</a>  
 </p>
 
 ---
